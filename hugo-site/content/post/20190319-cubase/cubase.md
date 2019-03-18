@@ -1,11 +1,12 @@
 ---
 title: "CubaseでテンポありのMIDIでの録音を一発でタイムストレッチする方法"
+description: "テンポが揺れているMIDI(ちゃんとテンポが記録されている)  と、その揺れているMIDIを使って録音したオーディオトラック(例えばヴォーカル)を、一定のテンポに揃えたり、ストレッチしたりする方法"
 date: 2019-03-19T02:43:54+09:00
-draft: false
 tags: ["cubase"]
 categories: ["blog", "music"]
 banner: "20190319-cubase.png"
 ---
+
 
 あまりにCubaseに感動したのでシェアがてらblogしておく。
 
