@@ -21,11 +21,17 @@ theme = "hugo-icarus-theme"
 
 
 [params]
+    # for opengraph 
+    description = "ジャズピアニストで開発者で車好きのtanigonのblog"
+    images = ["gussan.jpg"]
+    title = "tanigon.dev"
+
     # Tell me who you are
     author = "tanigon"
     bio = "Jazz Pianist/Engineer"
     location = "Kyoto Japan"
     site_description = "ジャズピアニストで開発者で車好きのtanigonのblog"
+    
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
     avatar = "css/images/avatar.png"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme

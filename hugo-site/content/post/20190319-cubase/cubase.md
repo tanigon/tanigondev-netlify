@@ -4,6 +4,7 @@ description: "テンポが揺れているMIDI(ちゃんとテンポが記録さ�
 date: 2019-03-19T02:43:54+09:00
 tags: ["cubase"]
 categories: ["blog", "music"]
+images: ["20190319-cubase.png"]
 banner: "20190319-cubase.png"
 ---
 
