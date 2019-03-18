@@ -1,6 +1,7 @@
 baseURL = "https://tanigon.dev/"
 languageCode = "en-us"
 title = "tanigon.dev"
+# canonifyurls = true
 
 # Icarus specific----- begin
 
