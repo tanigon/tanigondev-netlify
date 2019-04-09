@@ -14,9 +14,13 @@ draft = true
 
 [Google Search Console](https://search.google.com/search-console/about) にドメインを登録しよう
 
-次にサイトマップを登録する。
+次にサイトマップを登録する。RSSとサイトマップ両方を指定することが望ましい、らしいので以下のようにする
 
-Hugoの場合サイトマップは /index.xml に生成されている。ので、これをGoogle Search Consoleに登録しよう。反映には時間がかかるようだ。
+## RSSフィードを登録する
+Hugoの場合は /index.xml に生成されている。ので、これをGoogle Search Consoleに登録しよう。反映には時間がかかるようだ。
+
+## sitemapを登録する
+同様に /sitemap.xml が生成されているので、これも登録する。
 
 # Google Analyticsの設定
 普通にGoogle AnalyticsのトラッキングIDの取得をしておく。このIDを控えておいて、 config.toml に記入する。
