@@ -5,6 +5,7 @@ description = "コメダコーヒーのフードレビューことはじめ…�
 menu = ""
 banner = "komeda-fishflied.jpg"
 images = ["komeda-fishflied.jpg"]
+slug = "komeda-1-fishfliedburger"
 title = "コメダフードレビュー #1 フィッシュフライバーガー"
 date = 2019-04-22T16:15:24+09:00
 +++

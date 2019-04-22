@@ -4,7 +4,6 @@ categories = ["まとめ", "web"]
 description = "私的Hugo設定まとめ(個人メモ) WIPです"
 menu = ""
 banner = ""
-slug: "komeda-fishfliedburger"
 images = []
 title = "HugoのSEOなど設定まとめ(WIP)"
 date = 2019-04-09T17:14:41+09:00
