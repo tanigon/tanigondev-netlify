@@ -4,6 +4,7 @@ categories = ["blog", "food"]
 description = "七条の名店・大川は、有名なビフかつサンドもいいが、その他弁当がまた最高だという話。"
 menu = ""
 banner = "ookawa-beefcuts.jpg"
+thumbnail = "ookawa-beefcuts-thumbnail.jpg"
 images = ["ookawa-beefcuts.jpg", "ookawa-menu.jpg", "ookawa-menu2.jpg", "ookawa-outside.jpg", "ookawa-teriyaki.jpg"]
 slug = "ookawa"
 title = "京都フード：肉の大川はビフかつサンドもいいが弁当も最高"
