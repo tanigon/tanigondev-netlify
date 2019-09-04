@@ -7,6 +7,7 @@ tags: ["cubase"]
 categories: ["blog", "music"]
 images: ["20190319-cubase.png"]
 banner: "20190319-cubase.png"
+thumbnail: "20190319-cubase-thumbnail.png"
 ---
 
 

@@ -4,6 +4,7 @@ categories = ["blog", "food"]
 description = "コメダ珈琲フードレビュー #3 お得なモーニングトーストはなんと無料。選べる3種類のトーストから手作りたまごペーストにチャレンジ！"
 menu = ""
 banner = "komeda-morningtoast.jpg"
+thumbnail = "komeda-morningtoast-thumbnail.jpg"
 images = ["komeda-morningtoast.jpg", "komeda-morningmenu.jpg"]
 slug = "komeda-3-morning"
 title = "コメダ珈琲フードレビュー #3 手作りたまごペースト(モーニング)"

@@ -4,6 +4,7 @@ categories = ["blog", "food"]
 description = "コメダ珈琲フードレビュー #4 たっぷりたまごのピザトーストはあまりに欲張りでギルティな一品"
 menu = ""
 banner = "komeda-pizzatoast.jpg"
+thumbnail = "komeda-pizzatoast-thumbnail.jpg"
 images = ["komeda-pizzatoast.jpg", "komeda-pizzatamago.jpg"]
 slug = "komeda-4-pizzatamago"
 title = "コメダ珈琲フードレビュー #4 たっぷりたまごのピザトースト"

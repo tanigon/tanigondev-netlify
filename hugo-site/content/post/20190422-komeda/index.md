@@ -4,6 +4,7 @@ categories = ["blog", "food"]
 description = "コメダコーヒーのフードレビューことはじめ…と #1 フィッシュフライバーガーは最高"
 menu = ""
 banner = "komeda-fishflied.jpg"
+thumbnail = "komeda-fishflied-thumbnail.jpg"
 images = ["komeda-fishflied.jpg"]
 slug = "komeda-1-fishfliedburger"
 title = "コメダフードレビュー #1 フィッシュフライバーガー"

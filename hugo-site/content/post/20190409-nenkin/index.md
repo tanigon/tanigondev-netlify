@@ -4,6 +4,7 @@ categories = ["blog", "life"]
 description = "退職した人は国民年金の支払いを免除される特例がある。この申請をしたときのメモ。"
 menu = ""
 banner = "20190404-nenkin.jpg"
+thumbnail = "20190404-nenkin-thumbnail.jpg"
 images = ["20190404-nenkin.jpg"]
 title = "国民年金の退職特別免除を申請してきた"
 date = 2019-04-09T16:38:45+09:00

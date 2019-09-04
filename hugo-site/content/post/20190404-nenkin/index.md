@@ -4,6 +4,7 @@ categories = ["blog", "life"]
 description = "退職したら厚生年金から国民年金に変わる。その手続きのメモ。退職した場合は国民年金の退職特別免除についても検討したい。"
 menu = ""
 banner = "20190404-nenkin.jpg"
+thumbnail = "20190404-nenkin-thumbnail.jpg"
 images = ["20190404-nenkin.jpg"]
 title = "退職したので厚生年金を国民年金に切り替えてきた"
 date = 2019-04-04T14:57:38+09:00

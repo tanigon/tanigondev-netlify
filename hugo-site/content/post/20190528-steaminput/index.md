@@ -7,6 +7,7 @@ tags: ["steam", "game", "metalslug"]
 categories: ["blog", "game", "steam"]
 images: ["steamfix1.png", "steamfix2.png", "steamfix3.png"]
 banner: "banner-metalslug.png"
+thumbnail: "banner-metalslug-thumbnail.png"
 ---
 
 @feiz とMETAL SLUG Xをプレイしようとしたらパッド入力がグリッチしまくって大変だったのでその対策結果のメモ

@@ -4,6 +4,7 @@ categories = ["blog", "food"]
 description = "コメダ珈琲フードレビュー #2 カツカリーパンは期間限定の実力派"
 menu = ""
 banner = "komeda-currypan.jpg"
+thumbnail = "komeda-currypan-thumbnail.jpg"
 images = ["komeda-currypan.jpg"]
 slug = "komeda-2-currypan"
 title = "コメダ珈琲フードレビュー #2 カツカリーパン"
