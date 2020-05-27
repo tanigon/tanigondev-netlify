@@ -5,7 +5,7 @@ description = "Redisでどんなコマンドが発行されているかを見る
 menu = ""
 slug = "redis-trace"
 title = "Redisのデバッグ、トレースログ"
-date = 2019-09-05T00:00:24+09:00
+date = 2020-05-27T18:11:11+09:00
 +++
 
 # Redisでどんなコマンドが発行されているかを見たい
