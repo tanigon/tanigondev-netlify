@@ -7,7 +7,7 @@ banner = "rails.jpg"
 thumbnail = "rails.jpg"
 slug = "marshaling-model"
 title = "ActiveRecordモデルをキャッシュする時に関連キャッシュを取り除く"
-date = 2020-06-10T219:20:53+09:00
+date = 2020-06-10T19:20:53+09:00
 +++
 
 # Rails.cacheにmodelをキャッシュする
