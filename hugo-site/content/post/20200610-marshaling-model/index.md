@@ -3,7 +3,6 @@ tags = ["dev", "rails", "ruby"]
 categories = ["blog", "dev"]
 description = "モデルをRails.cacheやその他Marshalでキャッシュする際に関連キャッシュを登録したくない時の方法"
 menu = ""
-banner = "rails.jpg"
 thumbnail = "rails.jpg"
 slug = "marshaling-model"
 title = "ActiveRecordモデルをキャッシュする時に関連キャッシュを取り除く"
