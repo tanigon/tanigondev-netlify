@@ -1,7 +1,7 @@
 +++
 tags = ["dev", "unity", "aws"]
 categories = ["blog", "dev"]
-description = "モデルをRails.cacheやその他Marshalでキャッシュする際に関連キャッシュを登録したくない時の方法"
+description = "AWS Mobile SDK for UnityをimportするとUnity2019プロジェクトだとビルドができなくなったり動作しなくなる件 (AWSSDK for Unityはもうサポートされないという件)"
 menu = ""
 thumbnail = "gametech.png"
 slug = "awssdk-unity2019"
