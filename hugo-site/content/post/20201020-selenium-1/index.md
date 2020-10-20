@@ -11,6 +11,7 @@ date = 2020-10-20T11:22:53+09:00
 
 # Selenium WebDriverで遊ぼう
 Selenium WebDriverがあれば、httpを直接喋ったり、mechanizeやnokogiriで遊ぶより以下のことが出来て嬉しい。
+
 - javascriptを使ったレンダリングなどに対応できる
 - javascriptをコールできる
 - chromeなどブラウザの挙動そっくりそのままを再現できる
