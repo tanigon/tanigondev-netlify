@@ -18,6 +18,10 @@ Selenium WebDriverがあれば、httpを直接喋ったり、mechanizeやnokogir
 
 Selenium WebDriver on Ruby で、いろいろ遊んだり、今流行の(多分嘘)RPAしたりやっていくぞ！
 
+### これまでの目次
+- [その1 … 基本編]({{< ref "/post/20201020-selenium-1" >}})
+- [その2 … waitやwindow_handle]({{< ref "/post/20201022-selenium-2" >}})
+
 # 準備
 これはごく普通に
 `gem install selenium-webdriver`
