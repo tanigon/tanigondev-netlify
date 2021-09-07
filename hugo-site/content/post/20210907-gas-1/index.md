@@ -1,5 +1,5 @@
 +++
-tags = ["GoogleAppScript", "API", "GAS", "Google"]
+tags = ["GoogleAppScript", "API", "GAS", "Google", "javascript"]
 categories = ["blog", "dev"]
 description = "GASで .docx を Blob.getAs() しても変換できないが、DriveV2 APIからなら変換できる"
 menu = ""
