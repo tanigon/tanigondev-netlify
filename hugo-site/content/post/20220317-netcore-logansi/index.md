@@ -1,5 +1,5 @@
 +++
-tags = [".NET", "Core", "C#", "Logging"]
+tags = [".NET", "Core", "Csharp", "Logging"]
 categories = ["blog", "dev"]
 description = ".NET Core 3のログ出力を単一行にしてANSIカラーを止めるのに appsettings.json を修正するだけでいいよという話"
 menu = ""
