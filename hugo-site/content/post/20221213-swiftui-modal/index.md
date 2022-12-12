@@ -22,7 +22,7 @@ SwiftUIでモーダルダイアログ的なものを出すには
 
 ## alertの出し方とデフォルト
 
-```
+```swift
 .alert("メッセージ",
     isPresented: $showAlert,
     actions: {
@@ -42,7 +42,7 @@ SwiftUIでモーダルダイアログ的なものを出すには
 
 上記コードを以下のように変更する。
 
-```
+```swift
 .alert("メッセージ",
     isPresented: $showAlert,
     actions: {
